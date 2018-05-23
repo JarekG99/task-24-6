@@ -1,0 +1,6 @@
+.AddPlayer__input, .AddPlayer__submit {
+  min-height: 2vh;
+  border: 2px solid green;
+  margin-top: 10px;
+  font-size: 15px;
+}
